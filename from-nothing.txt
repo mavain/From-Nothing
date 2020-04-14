@@ -1,0 +1,7 @@
+"from-nothing"
+{
+    "base"  "base"
+    "title" "From Nothing"
+    "maps"  "^gm_"
+    "menusystem"    "1"
+}
